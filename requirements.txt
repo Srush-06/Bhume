@@ -1,0 +1,10 @@
+geopandas>=0.14.0
+shapely>=2.0.0
+rasterio>=1.3.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+scipy>=1.11.0
+pyproj>=3.6.0
+Fiona>=1.9.0
+matplotlib>=3.7.0   # optional, for debug visualisations
+tqdm>=4.65.0

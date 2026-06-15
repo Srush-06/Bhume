@@ -1,0 +1,6 @@
+{
+  "pythonPath": "/opt/anaconda3/bin/python",
+  "typeCheckingMode": "basic",
+  "reportMissingModuleSource": "none",
+  "reportMissingImports": "none"
+}
